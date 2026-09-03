@@ -10,7 +10,7 @@
 
 I'm a senior at the University of Michigan studying Computer Science.
 
-Previously, I worked as a Software Engineering Intern at [Palantir](https://www.palantir.com/), where I rebuilt incremental synchronization for large-scale cloud data ingestion infrastructure.
+Previously, I worked as a Software Engineer Intern at [Palantir](https://www.palantir.com/), where I rebuilt incremental synchronization for large-scale cloud data ingestion infrastructure.
 
 Now, I am  
 - building [Polymic](https://github.com/polymic)
